@@ -31,4 +31,6 @@
 
   ## Deployment
   [README Generator Github](https://github.com/jeffkorby/README-Generator)
+  
+  ## Walkthrough Video
   [Walkthrough Video](https://watch.screencastify.com/v/SVPSoTarESU4yN1hp1de)
