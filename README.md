@@ -1,6 +1,7 @@
 # README Generator
 
-  # Uses node.js to create a README.md file.
+  ## Description 
+  Uses node.js to ask question prompts and then creates a README.md file based on the responses.
 
   ## Table of Contents:
   * [Installation](#Installation)
